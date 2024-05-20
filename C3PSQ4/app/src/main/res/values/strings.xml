@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">C3PSQ4</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="textview">TextView</string>
+    <string name="submit">Submit</string>
+    <string name="todo">TODO</string>
+    <string name="spidermon">Spidermon</string>
+    <string name="todo1">TODO</string>
+    <string name="facebook">Facebook</string>
+</resources>
